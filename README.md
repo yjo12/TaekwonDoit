@@ -1,2 +1,2 @@
 # TaekwonDoit
-SWU Digital Media - Capstone Design Project
+Digital Media - Capstone Design Project
